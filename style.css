@@ -1,0 +1,32 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+.chelsea-market-regular {
+    font-family: "Chelsea Market", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+/* global */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Chelsea Market", sans-serif;
+}
+
+body h1 {
+    color:darkblue;
+}
+
+body p {
+    color: black;
+}
+
+/* header */
+header {
+    background-color: white;
+}
